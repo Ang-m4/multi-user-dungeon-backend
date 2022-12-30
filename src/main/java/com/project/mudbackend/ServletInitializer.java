@@ -1,4 +1,4 @@
-package com.project.multiuserdungeonbackend;
+package com.project.mudbackend;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

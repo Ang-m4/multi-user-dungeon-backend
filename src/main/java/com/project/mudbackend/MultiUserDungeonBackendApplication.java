@@ -1,4 +1,4 @@
-package com.project.multiuserdungeonbackend;
+package com.project.mudbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
